@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[aiMade]]></title>
+        <description><![CDATA[aiMade]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 04:00:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robots and AI Invade Banking]]></title>
+            <description><![CDATA[<article><h1>Robots and AI Invade Banking</h1><p>No longer just the objects of fascination in science fiction, robots are beginning their invasion of banking. Robots and artificial intelligence in banking have the potential to reduce costs, expand skills, and improve the customer experience working alongside (or replacing) humans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7e9ee130a0c85a4fcce8e97258ef69f3b94981e.jpg"></article>]]></description>
+            <link>http://thefinancialbrand.com/52735/robots-artificial-intelligence-ai-banking/</link>
+            <guid isPermaLink="false">3107da3e-9d63-4030-88a7-a964277ace77</guid>
+            <pubDate>Sun, 24 Jan 2016 04:00:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
