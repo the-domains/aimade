@@ -4,11 +4,18 @@
         <description><![CDATA[aiMade]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 04:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 21:22:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[OpenAI]]></title>
+            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return. Since our research is free from financial obligations, we can better focus on a positive human impact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0ce969404b070f83efdb8199ecdce01e1d13def.jpg"></article>]]></description>
+            <link>https://openai.com/blog/introducing-openai/</link>
+            <guid isPermaLink="false">da16a2b9-c77a-4fb2-ba79-e60b8eac48c9</guid>
+            <pubDate>Tue, 01 Mar 2016 21:21:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sony's Ear Puts an AI Inside Your, Er, Ear]]></title>
-            <description><![CDATA[<article><h1>Sony's Ear Puts an AI Inside Your, Er, Ear</h1><p>Sony clearly watched Joaquin Phoenix in Her. Its latest announcement is an earpiece that interacts with your phone to inject the sweet mutterings of an AI straight into your skull. Welcome to the future. Just how "artificially intelligent" is it? So so.</p><img src="http://i.kinja-img.com/gawker-media/image/upload/s--DTnWh9DL--/c_scale,fl_progressive,q_80,w_800/xkviy2d7fpl5l3m1sywo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sony's Ear Puts an AI Inside Your, Er, Ear</h1><p>Sony clearly watched Joaquin Phoenix in Her. Its latest announcement is an earpiece that interacts with your phone to inject the sweet mutterings of an AI straight into your skull. Welcome to the future. Just how "artificially intelligent" is it? So so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d9aa0e3c6acbc238b0b4843369bb39d29155109.jpg"></article>]]></description>
             <link>http://gizmodo.com/sonys-ear-puts-an-ai-inside-your-er-ear-1760520418</link>
             <guid isPermaLink="false">96077205-69b7-4adb-9847-82bdf39dc175</guid>
             <pubDate>Tue, 23 Feb 2016 04:22:39 GMT</pubDate>
