@@ -4,8 +4,15 @@
         <description><![CDATA[aiMade]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 20:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 02:57:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your 24/7 on-demand flight assistant]]></title>
+            <description><![CDATA[<article><h1>Your 24/7 on-demand flight assistant</h1><p>GoButler is your instant assistant that speaks your language - your personal travel agent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b097bb4de2f5d15b80118471e3d4399342fd763.png"></article>]]></description>
+            <link>http://www.gobutler.com/</link>
+            <guid isPermaLink="false">9e60185f-d735-4a0a-b0a0-9b7d2ff58325</guid>
+            <pubDate>Fri, 18 Mar 2016 02:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The first Emotionally Intelligent speaker to empower your every moment]]></title>
             <description><![CDATA[<article><h1>The first Emotionally Intelligent speaker to empower your every moment</h1><p>Get a special 40% discount now - only on Indiegogo: http://igg.me/at/moodbox/x/4710211 MoodBox is revolutionizing the world of the home music industry by using emotion and mood recognition capabilities to always play the music you love. MoodBox is more than just a speaker with crystal clear 360-degree hi-fi sound with ambient lighting - it also talks to you, understands you and empathizes with you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df7c67b97b49b97846fcbd05f568df73d1464a5d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=9TRv0cXUVQw</link>
             <guid isPermaLink="false">42f9a048-50ac-43e1-beff-8ca5b2b02e4f</guid>
             <pubDate>Sun, 24 Jan 2016 04:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stephen Hawking warns artificial intelligence could end mankind - BBC News]]></title>
-            <description><![CDATA[<article><h1>Stephen Hawking warns artificial intelligence could end mankind - BBC News</h1><p>Prof Stephen Hawking, one of Britain's pre-eminent scientists, has said that efforts to create thinking machines pose a threat to our very existence. He told the BBC:"The development of full artificial intelligence could spell the end of the human race."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ae1080ba38e176cfd2f94e9cd4f7bf4481b9cf.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/technology-30290540</link>
-            <guid isPermaLink="false">668e4bd5-7f65-4692-bde2-dcf5c2acb205</guid>
-            <pubDate>Sun, 24 Jan 2016 04:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
