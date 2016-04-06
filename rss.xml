@@ -4,8 +4,15 @@
         <description><![CDATA[aiMade]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 03:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 03:41:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Platform | Persado - Cognitive Content Platform]]></title>
+            <description><![CDATA[<article><h1>Platform | Persado - Cognitive Content Platform</h1><p>Persado owns the largest database of language and images that is proven to drive engagement. The platform runs on 1M+ curated and tagged emotional and motivational words, phrases, and images collected over several years and scored against response data from 40+ billion impressions.</p><img src="http://persado.com/wp-content/uploads/2015/12/wheel-example-v5aw.png"></article>]]></description>
+            <link>http://persado.com/platform/</link>
+            <guid isPermaLink="false">253b3bc5-ea08-48d2-b545-9a05169345e4</guid>
+            <pubDate>Wed, 06 Apr 2016 03:40:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2015/MIT-Ocean-Robotics-1.jpg?itok=aI2ioNY9">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bernie.ai/</link>
             <guid isPermaLink="false">1a5d513d-d799-49d3-8eb2-6c17b0114ed3</guid>
             <pubDate>Sat, 06 Feb 2016 18:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's Go Victory Is Just a Glimpse of How Powerful AI Will Be]]></title>
-            <description><![CDATA[<article><h1>Google's Go Victory Is Just a Glimpse of How Powerful AI Will Be</h1><p>An artificially intelligent Google machine just beat a human grandmaster at the game of Go, the 2,500-year-old contest of strategy and intellect that's exponentially more complex than the game of chess. And Nick Bostrom isn't exactly impressed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4225f6ccc7d05cbb69ea67ae3a4baaec33b1fc72.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/01/googles-go-victory-is-just-a-glimpse-of-how-powerful-ai-will-be/</link>
-            <guid isPermaLink="false">37219d68-7639-472a-9391-ccc3e154932d</guid>
-            <pubDate>Sun, 31 Jan 2016 02:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
