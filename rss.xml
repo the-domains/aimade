@@ -4,11 +4,18 @@
         <description><![CDATA[aiMade]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 03:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Viv: The Global Brain]]></title>
+            <description><![CDATA[<article><h1>Viv: The Global Brain</h1><p>Viv is a global platform that enables developers to create an intelligent interface to anything. Viv is taught by the world, knows more than it is taught, and learns every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cae57e7d57fd7f6ca6381ec2f0eec4bcb0e467a8.jpg"></article>]]></description>
+            <link>http://viv.ai/</link>
+            <guid isPermaLink="false">2566f877-fc5c-4c1b-813f-e14af209057c</guid>
+            <pubDate>Fri, 08 Apr 2016 16:15:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Platform | Persado - Cognitive Content Platform]]></title>
-            <description><![CDATA[<article><h1>Platform | Persado - Cognitive Content Platform</h1><p>Persado owns the largest database of language and images that is proven to drive engagement. The platform runs on 1M+ curated and tagged emotional and motivational words, phrases, and images collected over several years and scored against response data from 40+ billion impressions.</p><img src="http://persado.com/wp-content/uploads/2015/12/wheel-example-v5aw.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Platform | Persado - Cognitive Content Platform</h1><p>Persado owns the largest database of language and images that is proven to drive engagement. The platform runs on 1M+ curated and tagged emotional and motivational words, phrases, and images collected over several years and scored against response data from 40+ billion impressions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd9a173e0c772b17c37202b8e0874a88b9029494.png"></article>]]></description>
             <link>http://persado.com/platform/</link>
             <guid isPermaLink="false">253b3bc5-ea08-48d2-b545-9a05169345e4</guid>
             <pubDate>Wed, 06 Apr 2016 03:40:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.com/david-schatsky/what-i-learned-teaching-a_b_9212496.html</link>
             <guid isPermaLink="false">23967f26-4ac5-459a-a2a0-d976c3a73b27</guid>
             <pubDate>Thu, 11 Feb 2016 23:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bernie knows when to swipe right]]></title>
-            <description><![CDATA[<article><h1>Bernie knows when to swipe right</h1><p>Meet Bernie. He talks. He swipes. He does research. Bernie is your personal matchmaking and dating assistant A.I.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/484fe601dd6f0f7a4561d90adb41d31fa8e06227.jpg"></article>]]></description>
-            <link>http://www.bernie.ai/</link>
-            <guid isPermaLink="false">1a5d513d-d799-49d3-8eb2-6c17b0114ed3</guid>
-            <pubDate>Sat, 06 Feb 2016 18:22:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
