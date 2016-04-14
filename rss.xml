@@ -4,8 +4,15 @@
         <description><![CDATA[aiMade]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 16:22:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CaptionBot - For pictures worth the thousand words]]></title>
+            <description><![CDATA[<article><h1>CaptionBot - For pictures worth the thousand words</h1></article>]]></description>
+            <link>https://www.captionbot.ai/</link>
+            <guid isPermaLink="false">6f95e926-0261-480e-a62d-dc00017008d0</guid>
+            <pubDate>Thu, 14 Apr 2016 16:21:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Viv: The Global Brain]]></title>
             <description><![CDATA[<article><h1>Viv: The Global Brain</h1><p>Viv is a global platform that enables developers to create an intelligent interface to anything. Viv is taught by the world, knows more than it is taught, and learns every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cae57e7d57fd7f6ca6381ec2f0eec4bcb0e467a8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/02/new-5-million-x-prize-for-ai-that-gives-the-best-ted-talk/</link>
             <guid isPermaLink="false">1ee6d909-f320-4307-bddc-173687f75968</guid>
             <pubDate>Thu, 18 Feb 2016 05:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I learned teaching a course on artificial intelligence (and you can too)]]></title>
-            <description><![CDATA[<article><h1>What I learned teaching a course on artificial intelligence (and you can too)</h1><p>I recently finished teaching a free, eight-week online course on artificial intelligence and cognitive technologies. Over 7,000 students registered for the course. Many of them were active participants in rich discussions throughout the eight weeks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf8086fc30e82c4e15f90a303160e68301d62b6.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/david-schatsky/what-i-learned-teaching-a_b_9212496.html</link>
-            <guid isPermaLink="false">23967f26-4ac5-459a-a2a0-d976c3a73b27</guid>
-            <pubDate>Thu, 11 Feb 2016 23:06:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
