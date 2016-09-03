@@ -28,6 +28,9 @@ navigation:
   - name: Emotional Technology
     id: 9e54cae7-73f5-44c3-bc7a-01d8fd07ebf5
     type: content
+  - name: Contact Form
+    url: 'http://www.leadershipwithawareness.com/'
+    type: external
 favicon: null
 title: This works
 description: Right?
