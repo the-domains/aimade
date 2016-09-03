@@ -1,19 +1,4 @@
-name: aiMade
-favicon: null
-layout_spectrum: 0.5031482155900449
 typography_spectrum: 0.04877372900955379
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.15090082306414843
   saturation: 0.3619442549534142
   rhythmicContrast: 0.7438527506310493
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5031482155900449
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: aiMade
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: This works
 purpose: []
