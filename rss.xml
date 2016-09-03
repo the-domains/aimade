@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[aiMade]]></title>
-        <description><![CDATA[aiMade]]></description>
+        <title><![CDATA[This works]]></title>
+        <description><![CDATA[This works]]></description>
         <link>https://thegrid.ai/aimade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 16:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 05:24:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aimade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CaptionBot - For pictures worth the thousand words]]></title>
@@ -47,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=OJywbEJq8SY</link>
             <guid isPermaLink="false">c4386a6d-a494-47d0-8e78-e2eff644b1c3</guid>
             <pubDate>Thu, 10 Mar 2016 20:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emotional Technology]]></title>
-            <description><![CDATA[<article><h1>Emotional Technology</h1><p>When we think of the future of technology, we often think of gadgets that will make us go faster. But the real development will be gadgets that help us with our emotions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd37a108d8db89469b53057c06cedb7095e75540.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5u45-x0-zoY</link>
-            <guid isPermaLink="false">9e54cae7-73f5-44c3-bc7a-01d8fd07ebf5</guid>
-            <pubDate>Wed, 09 Mar 2016 19:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI]]></title>
