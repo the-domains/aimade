@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T05:38:31.042Z'
+datePublished: '2016-09-01T14:52:26.188Z'
+sourcePath: _posts/2016-09-01-this-is-a-test.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T05:37:55.049Z'
+dateModified: '2016-09-01T14:52:25.404Z'
 title: ''
 publisher: {}
 description: This is a test
-starred: false
-sourcePath: _posts/2016-09-01-this-is-a-test.md
+starred: true
 _type: Blurb
 
 ---
